@@ -6,9 +6,9 @@
 
 | 파트 | 팀원 | 주요 기여 |
 |------|------|-----------|
-| 프론트엔드 | 이태엽 (React Native)<br>하윤지 (React Native)<br>김형준 (React)<br>김하진 (React)<br>김정욱 (React) | - 기존 React Native 코드 유지/보완<br>- React + WebView 구조 설계 및 적용<br>- UI/UX 리뉴얼 및 성능 최적화 |
-| 백엔드 | 이태엽<br>장채원 | - Python 코드 제거 및 Node.js 기반 전환<br>- API 안정화 및 서버 리팩터링 |
-| 디자인 | 정우식<br>은경수 | - 전체 디자인 리뉴얼<br>- 반응형 화면 설계 및 사용자 피드백 반영 |
+| 프론트엔드 | 김정욱 (React)<br>김하진 (React)<br>김형준 (React)<br>이태엽 (React Native)<br>하윤지 (React Native) | - 기존 React Native 코드 유지/보완<br>- React + WebView 구조 설계 및 적용<br>- UI/UX 리뉴얼 및 성능 최적화 |
+| 백엔드 | 이태엽<br>장채원 | - Python 코드 제거 및 Spring Boot 기반 전환<br>- API 안정화 및 서버 리팩터링 |
+| 디자인 | 은경수<br>정우식 | - 전체 디자인 리뉴얼<br>- 반응형 화면 설계 및 사용자 피드백 반영 |
 
 </div>
 
